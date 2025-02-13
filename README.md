@@ -80,6 +80,8 @@ There are four managers, one for each team, and 3 sales reps per team except for
 
 The two sales channels are hospitals and pharmacies.
 
+The hospital channel is further classified into two sub-channels: government and private while pharmacies are classified into retail and institution.
+
 Two countries are responsible for the company sales: Germany and Poland.
 
 There are 240 products divided into 5 classes antibiotics, antipyretics, antimalarials, antiseptics, mood stabilizers, and analgesics.
@@ -100,12 +102,13 @@ while the least-performing products are antimalarials at a value of $1.4 billion
 
 5. Germany is responsible for over 90% of the total sales with products sold in 549 cities and all the sales from Poland are from 2018 only and 200 cities.
 
-6. There is a 50% distribution of sales between the two channels; hospitals and pharmacies.
+6. Hospitals account for 5.5 billion dollars in sales with government hospitals responsible for 45% of sales and private hospitals 55%.
+Pharmacies account for 6.2 billion dollars with 55% of the sales coming from retail while the 45% is from institutions.
 
-7. Delta which has four sales reps also has the highest sales record at 3.6 billion dollars.
+8. Delta which has four sales reps also has the highest sales record at 3.6 billion dollars.
 The manager in charge of the team is Brittany Bold. The bottom team in sales is alpha at 2.5 billion dollars led by James Goodwill.
 
-8. Overall, the top performing sales representative is Jimmy Grey of team Charlie at 986 million dollars, and Allan Ray is at the bottom with 843 million dollars.
+9. Overall, the top performing sales representative is Jimmy Grey of team Charlie at 986 million dollars, and Allan Ray is at the bottom with 843 million dollars.
 Each team has a top-performing sales representative as follows: Alpha - Erica Jones, Bravo - Abigail Thompson, Charlie - Jimmy Gray, and Delta - Sheila Stones.
 
 ### Recommendation
