@@ -88,25 +88,25 @@ There are 240 products divided into 5 classes antibiotics, antipyretics, antimal
 
 ### Insights and Findings
 
-1. From 2017 to 2020 there is a total sales of $ 12 billion and a total quantity of 29M products sold.
-In 2018 the sales peaked at 4 billion dollars while the other years have been at 3 billion dollars.
-There is a notable decline in sales from an average of 225 million in 2019 to 205 million in 2020 .
+1. From 2017 to 2020 there is a total sales of $11.8 billion and a total quantity of 29M products sold.
+In 2018 the sales peaked at $3.5 billion from the previous year's $2.7 billion.
+There is a notable decline in sales from an average of $2.9 billion in 2019 to $2.7 billion in 2020 .
 
 2. The month of August had peak sales overall but this varied per year with June in 2017, March in 2018, August in 2019, and December in 2020.
 There seems to be no discernible pattern here.
 
-3. The top-performing product class is analgesics which accounts for 20.19% of sales at a value of $2.3 billion(2017-2020)
-while the least-performing products are antimalarials at a value of $1.4 billion for the same period.
+3. The top-performing product class is analgesics which accounts for 20.19% of sales at a value of $2.4 billion(2017-2020)
+while the least-performing products are antimalarials at a value of $1.5 billion for the same period.
 
 4. Antiseptic sales topped in 2020 which could be explained by the Covid-19 pandemic while analgesics peaked overall.
 
 5. Germany is responsible for over 90% of the total sales with products sold in 549 cities and all the sales from Poland are from 2018 only and 200 cities.
 
-6. Hospitals account for 5.5 billion dollars in sales with government hospitals responsible for 45% of sales and private hospitals 55%.
-Pharmacies account for 6.2 billion dollars with 55% of the sales coming from retail while the 45% is from institutions.
+6. Hospitals account for $5.5 billion in sales with government hospitals responsible for 45% of sales and private hospitals 55%.
+Pharmacies account for $6.2 billion with 55% of the sales coming from retail while the 45% is from institutions.
 
-8. Delta which has four sales reps also has the highest sales record at 3.6 billion dollars.
-The manager in charge of the team is Brittany Bold. The bottom team in sales is alpha at 2.5 billion dollars led by James Goodwill.
+8. Delta which has four sales reps also has the highest sales record at $3.6 billion.
+The manager in charge of the team is Brittany Bold. The bottom team in sales is alpha at 2.6 billion dollars led by James Goodwill.
 
 9. Overall, the top performing sales representative is Jimmy Grey of team Charlie at 986 million dollars, and Allan Ray is at the bottom with 843 million dollars.
 Each team has a top-performing sales representative as follows: Alpha - Erica Jones, Bravo - Abigail Thompson, Charlie - Jimmy Gray, and Delta - Sheila Stones.
