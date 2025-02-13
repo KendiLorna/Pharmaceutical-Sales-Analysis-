@@ -113,7 +113,7 @@ Each team has a top-performing sales representative as follows: Alpha - Erica Jo
 
 ### Recommendation
 
-Planning marketing activities based on region, channel, and products and marketing budget allocation for growth.
+Planning marketing activities and budget allocation should be based on region, channel, and products performance.
 
 Measure the impact of marketing campaigns on prescription and sales increases by comparing sales before and after promotional activities (discounts, free samples).
 
@@ -125,7 +125,7 @@ Assess how competitor activity affects drug sales.
 
 Further investigation into customer and prescription behavior to identify the most prescribed drugs and trends in physician prescribing habits.
 
-Segment customers (hospitals, pharmacies) based on purchase frequency and volume.
+Segment customers (hospitals, pharmacies) based on purchase frequency and volume for focused marketing.
 
 Analyze repeat vs. new customers to determine brand loyalty.
 
