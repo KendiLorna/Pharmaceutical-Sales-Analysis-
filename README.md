@@ -95,7 +95,7 @@ By country, channel,sub_channel, team, and year to filter the visualizations for
 ### Dashboard
 Pharma sales dashboard<img width="1402" height="780" alt="Pharma dashboard" src="https://github.com/user-attachments/assets/9ab0dfef-1706-487b-9346-a7ecc7d0e2fa" />
 
-
+[Link to dashboard video](https://youtu.be/4LlUJkZ25lc)
 
 ### General observations
 
