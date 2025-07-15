@@ -93,7 +93,8 @@ Display sales by the two channesl-pharmacy and hospital and further by four sub-
 By country, channel,sub_channel, team, and year to filter the visualizations for a granular view.
 
 ### Dashboard
-Pharma sales dashboard<img width="1400" height="791" alt="Pharma dashboard" src="https://github.com/user-attachments/assets/2cfd2e3f-0db3-4f29-a2a8-d8c6739f1b72" />
+Pharma sales dashboard<img width="1402" height="780" alt="Pharma dashboard" src="https://github.com/user-attachments/assets/9ab0dfef-1706-487b-9346-a7ecc7d0e2fa" />
+
 
 
 ### General observations
