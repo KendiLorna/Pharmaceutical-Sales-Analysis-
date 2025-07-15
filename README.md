@@ -22,7 +22,7 @@ Ensured columns have the correct data types for analysis.
 
 ### Data Modelling
 
-I created a Date table to filter the data dynamically.
+I created a Date table to filter the data dynamically and connected it to the pharma_sales dataset.
 
 I calculated the following measures:
 
@@ -143,30 +143,30 @@ Each team has a top-performing sales representative as follows: Alpha - Erica Jo
 Sales grew by 95.48% in 2022, followed by a more modest increase in subsequent years.
 Investigate what drove the 2022 surge-new products, market entry, or distributor expansion, and replicate what is possible.
 
-3. Strategically align sales promotions with seasonality
+2. Strategically align sales promotions with seasonality
 December consistently peaks in sales.
 Position Q4 as a high-investment period for product launches, discount programs, and awareness campaigns. Develop a monthly baseline to spot underperformance.
 
-5. Product class action.
+3. Product class action.
 Analgesics dominate with $2.4B, while Antimalarials lag at $1.5B.
 Maintain analgesics’ dominance through brand reinforcements. For antimalarials, explore market education, pricing review, or product reformulation to tap into demand.
 
-7. Geographical presence
+4. Geographical presence
 Germany accounts for 90%+ of sales; Poland’s activity was limited to 2021.
 Assess Poland’s withdrawal and its implications. Look into Germany’s top-performing cities to drive regional replication. Explore other European markets if capacity allows.
 
-9. Customer Segment
+5. Customer Segment
 Pharmacies (47.5%) and Hospitals (52.5%) split revenue closely.
 Enhance engagement with government vs. private hospitals and retail vs. institutional pharmacies. Curate offerings based on purchasing behavior and procurement cycles.
 
-11. Team performance
+6. Team performance
 Team Delta leads at $3.6B, possibly due to size and strategy.
 Document best practices under Brittany Bold’s leadership. Apply targeted training to Team Alpha to close gaps, particularly under James Goodwill.
 
-13. Recognition and incentivize the top Sales Representatives
+7. Recognition and incentivize the top Sales Representatives
 Every team has standout performers.
 Encourage top sales reps and managers through incentives and initiate peer-learning initiatives featuring each team’s top rep. This is to cultivate motivation and share winning tactics across teams.
 
-15. Strengthen distribution networks
+8. Strengthen distribution networks
 Only 29 distributors support 751 customers across 240 products, which could lead to a potential bottleneck.
 Evaluate distributor capacity and explore onboarding additional partners, especially in underserved regions.
