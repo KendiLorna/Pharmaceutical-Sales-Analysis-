@@ -18,7 +18,7 @@ The insights gained can help in planning for manufacturing/supply chain and allo
 I imported the CSV file into Power BI and inspected the dataset in Power Query Editor:
 Checking for missing or inconsistent data in key columns using column quality and column distribution features.
 Checked for duplicate entries(none were found)
-Ensured columns have the correct data types for analysis.
+Ensured columns had the correct data types for analysis.
 
 ### Data Modelling
 
@@ -81,16 +81,16 @@ FORMAT(LatestValue, "+0.00%;-0.00%;0.00%")
 To visualize major metrics such as customers, distributors, total sales, etc.
 2.	Funnel chart: 
 To visualize sales by product class eg antibiotics.
-3.	Line Chart: 
+3.	Column Chart: 
 To display monthly sales trends.
 4.	Bar Chart: 
 Compare sales performance by the top five sales representatives.
 5.	Pie Chart: 
 To show the percentage contribution of each sales team to total sales.
 6.	Bar chart with drill down features: 
-Display sales by the two channesl-pharmacy and hospital and further by four sub-channels.
+Display sales by the two channels-pharmacy and hospital and further by four sub-channels.
 7.	Slicers: 
-By country, channel,sub_channel, team, and year to filter the visualizations for a granular view.
+By country, channel, sub-channel, team, and year to filter the visualizations for a granular view.
 
 ### Dashboard
 Pharma sales dashboard <img width="1418" height="797" alt="Pharma Sales Dashboard" src="https://github.com/user-attachments/assets/d20b1a6d-d1dd-4428-afa9-bfa18c10b636" />
