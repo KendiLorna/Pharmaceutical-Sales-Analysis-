@@ -3,7 +3,7 @@ Detailed analysis of sales data from a pharmaceutical company(2021-2024)
 
 ### OVERVIEW
 The dataset on pharmaceutical sales was obtained from Kaggle.
-[Pharmaceutical sale dataset](https://www.kaggle.com/datasets/krishangupta33/pharmaceutical-company-wholesale-retail-data)
+[Pharmaceutical sales dataset](https://www.kaggle.com/datasets/krishangupta33/pharmaceutical-company-wholesale-retail-data)
 
 I edited it to include a date column.
 
@@ -93,9 +93,9 @@ Display sales by the two channesl-pharmacy and hospital and further by four sub-
 By country, channel,sub_channel, team, and year to filter the visualizations for a granular view.
 
 ### Dashboard
-Pharma sales dashboard<img width="1402" height="780" alt="Pharma dashboard" src="https://github.com/user-attachments/assets/9ab0dfef-1706-487b-9346-a7ecc7d0e2fa" />
+Pharma sales dashboard <img width="1418" height="797" alt="Pharma Sales Dashboard" src="https://github.com/user-attachments/assets/d20b1a6d-d1dd-4428-afa9-bfa18c10b636" />
 
-[Link to dashboard video](https://youtu.be/4LlUJkZ25lc)
+[Link to dashboard video](https://youtu.be/0LtNl4af0hg)
 
 [Link to interactive dashboard](https://app.powerbi.com/links/qs08eep_gC?ctid=19374574-1e0a-42ef-b10d-da44d8248a8b&pbi_source=linkShare)
 
@@ -115,7 +115,7 @@ Two countries are responsible for the company sales: Germany and Poland.
 
 There are 240 products divided into 5 classes antibiotics, antipyretics, antimalarials, antiseptics, mood stabilizers, and analgesics.
 
-### Insights and Findings
+### Insights
 
 1. From 2021 to 2024 there is a total sales of $11.8 billion and a total quantity of 29M products sold.
 There is a 95.48% growth in sales in 2022 from 2021. The increase from 2023 to 2023 is 3.24% and 2.84% the following year.
@@ -140,7 +140,7 @@ The manager in charge of the team is Brittany Bold. The bottom team in sales is 
 8. Overall, the top-performing sales representative is Jimmy Grey of team Charlie at $986 million, and Allan Ray is at the bottom with $843 million.
 Each team has a top-performing sales representative as follows: Alpha - Erica Jones, Bravo - Abigail Thompson, Charlie - Jimmy Gray, and Delta - Sheila Stones.
 
-### Recommendation
+### Recommendations
 
 1. Capitalize on Year-Over-Year Growth Momentum
 Sales grew by 95.48% in 2022, followed by a more modest increase in subsequent years.
@@ -166,7 +166,7 @@ Enhance engagement with government vs. private hospitals and retail vs. institut
 Team Delta leads at $3.6B, possibly due to size and strategy.
 Document best practices under Brittany Bold’s leadership. Apply targeted training to Team Alpha to close gaps, particularly under James Goodwill.
 
-7. Recognition and incentivize the top Sales Representatives
+7. Recognize and incentivize the top Sales Representatives
 Every team has standout performers.
 Encourage top sales reps and managers through incentives and initiate peer-learning initiatives featuring each team’s top rep. This is to cultivate motivation and share winning tactics across teams.
 
