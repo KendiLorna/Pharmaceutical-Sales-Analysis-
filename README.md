@@ -97,8 +97,6 @@ Pharma sales dashboard <img width="1418" height="797" alt="Pharma Sales Dashboar
 
 [Link to dashboard video](https://youtu.be/0LtNl4af0hg)
 
-[Link to interactive dashboard](https://app.powerbi.com/links/qs08eep_gC?ctid=19374574-1e0a-42ef-b10d-da44d8248a8b&pbi_source=linkShare)
-
 ### General observations
 
 The dataset contains sales data from the year 2021 – 2024 with an average of $46,000 per month in sales
