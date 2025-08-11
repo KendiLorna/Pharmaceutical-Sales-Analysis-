@@ -1,5 +1,9 @@
 # Pharmaceutical-Sales-Analysis-
-Detailed analysis of sales data from a pharmaceutical company(2021-2024)
+Detailed analysis of sales data from a pharmaceutical company(2021-2024) using Power BI.
+
+A comprehensive Power BI dashboard to analyze pharmaceutical sales performance across products, regions, customer segments, and sales teams.
+
+Delivered actionable insights on year-over-year growth drivers, product portfolio performance, and distribution network gaps, enabling targeted sales strategies.
 
 ### OVERVIEW
 The dataset on pharmaceutical sales was obtained from Kaggle.
