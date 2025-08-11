@@ -95,7 +95,9 @@ By country, channel, sub-channel, team, and year to filter the visualizations fo
 ### Dashboard
 Pharma sales dashboard <img width="1418" height="797" alt="Pharma Sales Dashboard" src="https://github.com/user-attachments/assets/d20b1a6d-d1dd-4428-afa9-bfa18c10b636" />
 
-[Link to dashboard video](https://youtu.be/0LtNl4af0hg)
+[Watch dashboard video here](https://youtu.be/0LtNl4af0hg)
+
+[View Dashboard here](https://app.powerbi.com/view?r=eyJrIjoiOWU0NDFjOGEtZGJmOC00YzI2LWJlNmUtOGU1N2I3MGM1NGI2IiwidCI6IjE5Mzc0NTc0LTFlMGEtNDJlZi1iMTBkLWRhNDRkODI0OGE4YiJ9)
 
 ### General observations
 
